@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include"encryption.c"
-#include"decryptionan.c"
+#include"decryption.c"
 
 int main(int argc, char *argv[]) //char *argv[] is a 2D array or an Array of char pointers.
 {
